@@ -1,0 +1,3 @@
+plugins:
+  repid_autologin_enabled:
+    default: true
